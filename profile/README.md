@@ -46,19 +46,20 @@
 ## Overview
 
 ### Enhanced Workflow for macOS
-DockDoor provides macOS‑native tools for managing workflows with extended <a href="#">system integration</a>, stable <a href="#">performance patterns</a> and predictable <a href="#">resource handling</a>. It structures actions using internal <a href="#">workflow queues</a> to keep navigation responsive even during heavy operations.
+DockDoor enhances daily macOS workflows by providing a refined collection of system-aware tools built on deep <a href="#">system integration</a>. Its architecture is designed to maintain smooth interaction when navigating between applications, managing shortcuts or controlling workspace layout. The app establishes stable <a href="#">performance patterns</a> by coordinating internal operations through efficient CPU and memory allocation, ensuring that animations, previews and multitasking remain fluid. DockDoor applies predictable <a href="#">resource handling</a> to maintain responsiveness even when multiple apps, windows or heavy processes are running simultaneously. By organizing operational tasks through structured <a href="#">workflow queues</a>, the app ensures UI responsiveness, preventing stutters or delays during intensive workflows. Adaptive <a href="#">task scheduling</a> further optimizes how background actions are executed, giving users a consistently smooth and intuitive experience.
 
-### Optimized for macOS‑Native Workflows
-Aligned with <a href="#">macOS conventions</a>, enabling smooth interaction with menus, dialogs and system features.
+### Optimized for macOS-Native Workflows
+The interface is carefully aligned with <a href="#">macOS conventions</a>, replicating familiar navigation patterns, menu hierarchies and interactive behaviors found across the operating system. DockDoor integrates seamlessly with macOS window management, menu structures and system animations, creating a cohesive experience that feels native rather than layered on top. This adherence to macOS design principles makes the app intuitive even for new users, reducing learning curves and supporting long sessions without cognitive fatigue.
 
 ### Localized Resource Handling & Customization
-Runs on a full <a href="#">local processing model</a> allowing offline reliability and adjustable <a href="#">configuration profiles</a>.
+DockDoor functions entirely on a <a href="#">local processing model</a>, allowing all core features—window switching, dock enhancements, shortcut triggers and workspace controls—to operate smoothly without relying on external services. This provides reliable offline usage and predictable performance regardless of network conditions. Users can tailor their workflows through adjustable <a href="#">configuration profiles</a>, customizing everything from visual appearance to interaction behaviors, hotkeys, animation smoothing and workspace presets. These profiles allow users to shape DockDoor around personal work styles or larger team-wide productivity standards.
 
-### Cross‑Hardware Optimization
-Tuned for <a href="#">Intel</a> and <a href="#">Apple Silicon</a>, maintaining speed during extended sessions.
+### Cross-Hardware Optimization
+The application is optimized to run efficiently on both <a href="#">Intel</a> and <a href="#">Apple Silicon</a> architectures. On Apple Silicon devices, DockDoor leverages fast memory throughput, low-latency rendering and efficient multi-core scheduling to keep interface transitions smooth. On Intel systems, optimized CPU usage and adaptive resource scaling ensure consistent performance. This tuning ensures stability during extended sessions involving large numbers of windows, workspaces or persistent background tasks.
 
-### Data Management & Long‑Term Stability
-Implements careful <a href="#">data organization</a> and <a href="#">metadata handling</a> for consistent long‑term behavior.
+### Data Management & Long-Term Stability
+DockDoor maintains high reliability through structured <a href="#">data organization</a> techniques that govern how layouts, preferences and system interactions remain consistent over time. Its <a href="#">metadata handling</a> ensures that user settings, workspace arrangements and shortcuts remain synchronized across sessions. The system incorporates safe write operations, controlled memory buffers and periodic integrity checks, preventing data corruption and ensuring that long-term usage remains stable. This focus on reliability makes DockDoor suitable for professional environments where consistency and stability are essential components of daily workflows.
+
 
 <img src="https://www.appgefahren.de/wp-content/uploads/2024/06/DockDoor-Mac-1.jpg" width="900">
 
